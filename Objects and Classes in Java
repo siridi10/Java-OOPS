@@ -1,0 +1,21 @@
+An object in Java is the physical as well as a logical entity, whereas, a class in Java is a logical entity only.
+
+What is an object in Java?
+An entity that has state and behavior is known as an object.
+e.g:-chair,bike,marker,pen,etc.
+It can be physical or logical (tangible and intangible).
+The example of an intangible object is the banking system.
+
+Object have 3 characteristics:-
+State --> Represents the data of an object.
+Behavior --> Represents the functionality of an object such as deposit, withdraw, etc.
+Identity --> An object identity is typically implemented via a unique ID.
+
+For Example, Pen is an object. Its name is Reynolds; color is white, known as its state. It is used to write, so writing is its behavior.
+
+
+An object is an instance of a class. A class is a template or blueprint from which objects are created. So, an object is the instance(result) of a class.
+
+Object Definitions:
+-------------------
+An object is a real-world entity,runtime entity,entity which has state and behavior,instance of a class.
