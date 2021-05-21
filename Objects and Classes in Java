@@ -34,3 +34,12 @@ class <class_name>{
     field;  
     method;  
 }  
+
+Method in Java
+--------------
+In Java, a method is like a function which is used to expose the behavior of an object.
+
+Advantage of Method:-
+--------------------
+Code Reusability
+Code Optimization
