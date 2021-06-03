@@ -11,6 +11,7 @@ Rules for creating Java constructor
 Constructor name must be the same as its class name
 A Constructor must have no explicit return type
 A Java constructor cannot be abstract, static, final, and synchronized
+
 We can use access modifiers while declaring a constructor. It controls the object creation
 The default constructor is used to provide the "default values to the object like 0, null," etc.
 
